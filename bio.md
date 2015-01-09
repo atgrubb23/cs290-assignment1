@@ -15,4 +15,12 @@ Frugality
 Personal Finance
 Reading
 
+Job History:
+Computer cleaning technician
+Dishwasher
+Pizza cook
+Botany workstudy
+Fuel cell technician
+Quality assurance associate
+
 Programming Background:
