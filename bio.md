@@ -16,3 +16,5 @@ Personal Finance
 Reading
 
 Programming Background:
+Familiar with languages C++, C, Python and some VBA.
+Have the most experience with the C++ programming language.
