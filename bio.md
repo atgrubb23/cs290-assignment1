@@ -23,6 +23,11 @@ Botany workstudy
 Fuel cell technician
 Quality assurance associate
 
+Scholastic History:
+Rowan County Senior High School - HS Diploma
+Morehead State University - B.S. Pre-Medicine
+Oregon State University - B.S. Computer Science (in progress)
+
 Programming Background:
 Familiar with languages C++, C, Python and some VBA.
 Have the most experience with the C++ programming language.
